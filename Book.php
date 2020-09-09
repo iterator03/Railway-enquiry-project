@@ -5,6 +5,7 @@ echo "TRAIN NO IS:";
 echo $train_no;
 $_SESSION['$train_no']=$train_no;
 ?>
+
 <style>
 #popup_box
 {
